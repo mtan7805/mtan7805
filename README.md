@@ -33,7 +33,6 @@ const tan = {
   school:   "Hanoi University of Industry (HaUI)",
   major:    "Information Technology",
   interests: ["Web Development", "AI Applications", "Building side projects"],
-  funFact:  "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
@@ -107,12 +106,12 @@ const tan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtan7805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtan7805&layout=donut&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://streak-stats.demolab.com?user=mtan7805&theme=tokyonight&hide_border=true&mode=weekly" width="700" />
 </div>
 
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mtan7805&theme=tokyonight&hide_border=true&mode=weekly" width="700" />
+   <img src="https://github-profile-trophy.vercel.app/?username=mtan7805&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 </div>
 ---
 
@@ -127,7 +126,7 @@ I'm always open to connecting, collaborating, or just having a great tech conver
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leminhhtan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/le.minh.tan.22597)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mtan_7805)
-[![Discord](https://img.shields.io/badge/Discord-Lê%20Minh%20Tân-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mtan_7805)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mtan_7805)
 
 </div>
 
